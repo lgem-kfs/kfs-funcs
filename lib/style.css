@@ -1,0 +1,1 @@
+.message{width:max-content;padding:3vw 8vw;color:#fff;background:var(--message-bg);opacity:.6;border-radius:2vw;letter-spacing:.2rem;font-size:1.1rem;position:absolute;z-index:999;top:20%;left:50%;transform:translate(-50%,-50%);animation:hide 3s ease-in-out}@keyframes hide{0%{opacity:1}to{opacity:0}}
